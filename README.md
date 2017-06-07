@@ -1,1 +1,1 @@
-# docker-images
+# Docker images for the IBM Blockchain Platform
