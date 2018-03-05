@@ -30,7 +30,7 @@ Run [build.sh](build.sh) which performs the following actions:
   * builds ibmlockchain/fabric-orderer
 * clones the the [Hyperledger Fabric CA](https://github.com/hyperledger/fabric-ca) repository and 
   * builds ibmblockchain/fabric-ca
-  
+
 After running the script, you should see something similar to the following after running `docker images` :
 ```
 ibmblockchain/fabric-orderer              latest              5ecbb3127447        17 minutes ago      121 MB
